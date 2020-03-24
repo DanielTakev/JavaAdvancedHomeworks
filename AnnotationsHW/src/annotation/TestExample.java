@@ -6,7 +6,7 @@ import annotation.test.TestInformation.Priority;
 
 @TestInformation(
 	priority = Priority.HIGH, 
-	createdBy = "mkyong.com",  
+	createdBy = "Daniel Takev",  
 	tags = {"sales","test" }
 )
 public class TestExample {

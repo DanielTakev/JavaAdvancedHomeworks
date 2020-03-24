@@ -17,7 +17,7 @@ public @interface TestInformation {
 	
 	String[] tags() default "";
 	
-	String createdBy() default "SomeName";
+	String createdBy() default "Daniel Takev";
 	
 	String lastModified() default "03/24/2020";
 }
